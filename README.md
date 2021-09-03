@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrArtyD
+- 👋 Hi and welcome stranger!
 - 🌱 I’m currently learning Android Development
 
 <!---
